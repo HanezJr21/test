@@ -1,1 +1,0 @@
-# logging-log4j2
